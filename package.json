@@ -2,6 +2,7 @@
   "name": "traitors-generator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kapsid.github.io/traitors-generator/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
